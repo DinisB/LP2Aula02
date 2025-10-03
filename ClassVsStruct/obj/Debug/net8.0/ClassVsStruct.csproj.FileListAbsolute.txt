@@ -12,3 +12,4 @@ C:\Users\Dinis\Documents\LP2\LP2Aula02\ClassVsStruct\obj\Debug\net8.0\refint\Cla
 C:\Users\Dinis\Documents\LP2\LP2Aula02\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.pdb
 C:\Users\Dinis\Documents\LP2\LP2Aula02\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.genruntimeconfig.cache
 C:\Users\Dinis\Documents\LP2\LP2Aula02\ClassVsStruct\obj\Debug\net8.0\ref\ClassVsStruct.dll
+C:\Users\Dinis\Documents\LP2\LP2Aula02\ClassVsStruct\obj\Debug\net8.0\ClassVsStruct.sourcelink.json
