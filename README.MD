@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
 direction TB
     class Program {
@@ -46,4 +47,4 @@ direction TB
     Program --> Cat
     Cat --> Feed
     Cat --> Mood
-
+```
