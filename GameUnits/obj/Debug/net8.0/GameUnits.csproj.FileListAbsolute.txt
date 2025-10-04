@@ -1,0 +1,15 @@
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.AssemblyInfoInputs.cache
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.AssemblyInfo.cs
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.csproj.CoreCompileInputs.cache
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.sourcelink.json
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\bin\Debug\net8.0\GameUnits.exe
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\bin\Debug\net8.0\GameUnits.deps.json
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\bin\Debug\net8.0\GameUnits.runtimeconfig.json
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\bin\Debug\net8.0\GameUnits.dll
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\bin\Debug\net8.0\GameUnits.pdb
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.dll
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\refint\GameUnits.dll
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.pdb
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\GameUnits.genruntimeconfig.cache
+c:\Users\Dinis\Documents\LP2\LP2Aula02\GameUnits\obj\Debug\net8.0\ref\GameUnits.dll
