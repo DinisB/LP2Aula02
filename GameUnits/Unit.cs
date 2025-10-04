@@ -20,5 +20,7 @@ namespace GameUnits
             int d = Math.Abs(v.X) + Math.Abs(v.Y);
             Console.WriteLine($"{this.GetType().Name} has moved {d} positions");
         }
+        public override string ToString() =>
+            $"HP={Health}, Val={Value}";
     }
 }

@@ -12,8 +12,8 @@ namespace GameUnits
             militar.Move(new Vector2(2, -3));
             settler.Move(new Vector2(-1, 4));
 
-            Console.WriteLine($"Militar has {militar.Health} health and {militar.Value} value");
-            Console.WriteLine($"Settler has {settler.Health} health and {settler.Value} value");
+            Console.WriteLine(militar);
+            Console.WriteLine(settler);
         }
     }
 }
